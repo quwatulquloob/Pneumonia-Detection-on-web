@@ -1,0 +1,501 @@
+Cough,Fever,Shortness of breath,Chest pain,Fatigue,Nausea and vomiting,Confusion or changes in mental status,Loss of appetite,Headache,Muscle pain,Status
+0,0,0,1,1,1,0,0,0,1,Uncertain
+0,0,0,0,0,1,1,1,1,0,Uncertain
+1,1,1,0,1,0,1,1,1,0,Pneumonia
+1,1,0,0,1,0,1,0,0,0,Uncertain
+0,1,1,1,1,0,1,0,0,1,Mostly Pneumonia
+0,0,1,1,1,1,0,0,0,1,Mostly Pneumonia
+1,0,0,0,1,1,0,0,1,0,Uncertain
+0,1,0,1,0,1,1,1,1,0,Mostly Pneumonia
+1,1,0,1,0,1,1,0,0,1,Mostly Pneumonia
+0,0,1,0,0,1,1,1,0,1,Mostly Pneumonia
+1,0,0,1,1,1,1,1,1,1,Pneumonia
+1,0,0,1,1,0,0,1,0,0,Uncertain
+0,0,1,1,0,0,1,1,1,0,Mostly Pneumonia
+0,0,0,1,1,1,1,1,1,0,Mostly Pneumonia
+0,0,1,0,0,1,0,1,1,1,Mostly Pneumonia
+1,1,0,1,1,1,1,0,0,1,Pneumonia
+1,0,1,1,0,1,1,0,0,0,Mostly Pneumonia
+0,1,1,0,1,0,0,1,0,0,Uncertain
+1,1,0,1,1,0,1,1,0,0,Mostly Pneumonia
+1,1,0,1,0,1,1,0,1,1,Pneumonia
+0,0,0,1,0,0,1,0,0,1,Uncertain
+0,1,1,0,0,1,0,0,0,1,Uncertain
+1,1,1,0,0,1,1,0,1,0,Mostly Pneumonia
+0,0,0,0,0,0,1,0,0,0,Uncertain
+0,1,1,1,1,0,0,1,0,1,Mostly Pneumonia
+0,0,0,0,0,0,1,1,1,0,Uncertain
+1,1,0,1,1,1,1,1,1,1,Pneumonia
+0,1,1,0,1,0,0,0,0,1,Uncertain
+1,0,1,0,0,0,1,1,0,0,Uncertain
+1,0,0,1,0,1,0,1,1,1,Mostly Pneumonia
+0,1,0,0,1,1,1,1,0,1,Mostly Pneumonia
+0,0,1,1,1,1,1,0,0,1,Mostly Pneumonia
+1,1,0,1,1,0,1,1,0,0,Mostly Pneumonia
+0,1,0,0,0,0,0,1,1,0,Uncertain
+0,1,0,1,1,1,0,1,1,1,Pneumonia
+0,0,1,0,0,1,1,0,0,0,Uncertain
+1,0,0,0,1,1,1,0,1,0,Mostly Pneumonia
+1,1,0,1,1,1,0,0,1,0,Mostly Pneumonia
+0,1,1,0,1,0,1,1,0,1,Mostly Pneumonia
+0,1,1,0,1,0,0,0,0,1,Uncertain
+1,0,1,0,1,0,1,1,0,0,Mostly Pneumonia
+1,1,0,0,1,0,0,1,1,0,Mostly Pneumonia
+1,0,0,1,1,1,0,0,0,0,Uncertain
+1,1,1,0,1,0,1,0,1,1,Pneumonia
+0,1,1,1,0,0,0,0,0,1,Uncertain
+0,1,1,0,1,0,1,1,1,1,Pneumonia
+0,1,0,1,0,1,0,0,1,0,Uncertain
+1,1,0,0,0,1,1,0,1,0,Mostly Pneumonia
+0,0,0,0,0,1,0,1,0,1,Uncertain
+1,1,1,0,1,0,1,0,1,0,Mostly Pneumonia
+0,1,0,1,1,1,1,0,0,1,Mostly Pneumonia
+1,1,0,1,1,1,1,1,1,1,Pneumonia
+0,1,0,0,1,1,1,1,1,0,Mostly Pneumonia
+0,1,0,0,0,0,0,1,1,1,Uncertain
+1,1,1,0,1,0,0,1,0,1,Mostly Pneumonia
+0,1,0,1,1,1,0,1,1,1,Pneumonia
+0,0,0,0,0,1,1,1,0,1,Uncertain
+0,0,0,1,1,0,1,0,0,0,Uncertain
+1,0,1,1,1,0,0,1,1,0,Mostly Pneumonia
+0,1,0,0,0,0,0,0,1,1,Uncertain
+0,1,0,1,0,0,1,0,1,1,Mostly Pneumonia
+1,0,0,1,1,1,0,1,1,1,Pneumonia
+1,0,1,1,1,1,0,0,1,1,Pneumonia
+0,0,1,1,1,1,1,1,0,1,Pneumonia
+1,1,0,1,0,1,0,0,1,0,Mostly Pneumonia
+0,1,1,0,1,0,0,0,0,0,Uncertain
+0,1,0,0,1,0,0,0,1,0,Uncertain
+0,1,1,1,1,0,1,1,0,0,Mostly Pneumonia
+1,1,1,1,1,1,1,1,0,1,Pneumonia
+0,1,0,1,0,1,0,0,1,0,Uncertain
+1,0,0,1,1,1,1,0,0,1,Mostly Pneumonia
+1,1,0,1,0,1,1,0,0,1,Mostly Pneumonia
+1,1,1,0,0,1,0,1,0,0,Mostly Pneumonia
+0,1,0,0,1,1,0,1,0,0,Uncertain
+0,1,1,0,0,0,1,1,0,1,Mostly Pneumonia
+0,0,0,0,1,1,0,1,1,0,Uncertain
+0,1,1,0,0,0,0,1,1,0,Uncertain
+1,0,1,0,0,0,0,1,1,0,Uncertain
+1,0,1,0,0,0,0,0,0,1,Uncertain
+0,1,0,0,0,0,1,0,0,1,Uncertain
+1,1,1,0,1,0,1,0,0,0,Mostly Pneumonia
+1,1,1,1,0,1,0,0,1,0,Mostly Pneumonia
+1,0,1,0,1,1,1,1,0,1,Pneumonia
+0,1,1,1,1,0,1,1,0,0,Mostly Pneumonia
+0,1,1,0,1,0,0,1,0,0,Uncertain
+1,1,0,1,1,0,0,0,1,1,Mostly Pneumonia
+0,0,1,1,1,0,0,0,1,1,Mostly Pneumonia
+0,0,1,1,1,1,1,1,1,1,Pneumonia
+1,0,1,1,1,1,0,1,0,1,Pneumonia
+1,0,0,1,1,1,0,0,1,1,Mostly Pneumonia
+0,0,0,1,1,0,1,1,1,1,Mostly Pneumonia
+0,0,1,0,1,1,0,1,1,0,Mostly Pneumonia
+0,1,0,1,1,1,0,0,0,1,Mostly Pneumonia
+0,0,1,0,1,0,0,0,1,0,Uncertain
+1,0,1,0,1,0,1,0,0,1,Mostly Pneumonia
+1,0,1,0,0,0,1,0,0,0,Uncertain
+0,1,0,0,1,0,0,0,0,1,Uncertain
+1,0,1,0,1,1,1,1,1,0,Pneumonia
+0,1,0,0,0,1,0,0,0,0,Uncertain
+1,0,0,0,1,0,0,0,0,0,Uncertain
+1,1,1,0,1,1,0,1,0,1,Pneumonia
+1,1,1,0,0,0,0,0,1,0,Uncertain
+0,1,1,0,1,1,0,1,0,1,Mostly Pneumonia
+1,0,1,0,0,1,0,1,1,0,Mostly Pneumonia
+1,0,0,1,1,1,1,1,0,1,Pneumonia
+1,0,0,0,1,1,1,0,1,1,Mostly Pneumonia
+0,0,0,0,0,0,1,0,1,0,Uncertain
+0,0,0,1,0,0,0,1,0,1,Uncertain
+1,1,1,1,0,0,1,0,0,0,Mostly Pneumonia
+0,0,1,1,1,1,1,1,1,1,Pneumonia
+1,1,0,0,1,0,1,0,1,0,Mostly Pneumonia
+1,0,1,0,1,0,1,1,0,0,Mostly Pneumonia
+0,0,1,0,1,0,0,1,1,1,Mostly Pneumonia
+1,0,1,1,1,0,1,0,0,0,Mostly Pneumonia
+0,1,0,1,0,1,0,1,0,0,Uncertain
+0,1,1,0,0,1,0,1,0,0,Uncertain
+0,1,1,0,0,0,1,1,1,0,Mostly Pneumonia
+1,0,0,0,0,0,0,0,0,0,Uncertain
+1,0,1,1,0,0,1,0,0,1,Mostly Pneumonia
+0,1,1,0,1,1,1,1,0,1,Pneumonia
+0,0,1,0,1,0,0,0,1,0,Uncertain
+1,0,0,0,0,1,1,1,0,1,Mostly Pneumonia
+0,0,1,1,1,1,0,0,0,0,Uncertain
+0,0,0,0,1,0,0,1,0,1,Uncertain
+1,0,0,1,0,1,0,0,1,0,Uncertain
+0,0,0,1,1,1,0,1,0,1,Mostly Pneumonia
+0,0,0,1,1,1,1,1,0,1,Mostly Pneumonia
+1,1,1,0,1,0,0,0,1,1,Mostly Pneumonia
+0,1,1,1,0,0,0,1,1,0,Mostly Pneumonia
+1,0,1,1,0,1,1,1,0,0,Mostly Pneumonia
+1,1,0,1,1,1,1,0,0,0,Mostly Pneumonia
+1,1,1,1,0,1,0,1,0,1,Pneumonia
+0,1,0,1,1,1,0,1,1,0,Mostly Pneumonia
+0,0,1,0,1,1,1,1,0,1,Mostly Pneumonia
+1,1,1,0,1,0,1,0,1,0,Mostly Pneumonia
+0,1,0,1,1,1,1,0,0,0,Mostly Pneumonia
+1,1,1,0,0,1,0,1,0,1,Mostly Pneumonia
+1,1,0,0,0,1,0,0,1,0,Uncertain
+0,0,0,0,0,1,0,1,1,0,Uncertain
+1,0,0,0,0,1,0,0,0,1,Uncertain
+1,1,1,1,0,1,0,0,1,0,Mostly Pneumonia
+0,1,1,1,0,1,1,1,1,0,Pneumonia
+1,0,0,1,0,0,1,1,1,1,Mostly Pneumonia
+1,1,1,0,1,0,1,0,1,0,Mostly Pneumonia
+0,1,1,0,1,1,1,0,1,0,Mostly Pneumonia
+1,1,1,0,0,0,1,0,0,0,Uncertain
+1,0,0,1,0,0,0,1,0,0,Uncertain
+1,1,1,0,1,0,1,1,0,0,Mostly Pneumonia
+0,0,0,0,1,0,0,0,1,0,Uncertain
+1,1,1,1,0,1,1,0,1,0,Pneumonia
+1,0,0,0,1,0,0,1,0,0,Uncertain
+1,1,0,0,0,0,0,1,1,1,Mostly Pneumonia
+0,0,1,1,1,1,0,0,1,0,Mostly Pneumonia
+0,0,0,0,1,0,0,0,1,0,Uncertain
+0,0,0,0,0,1,0,0,1,0,Uncertain
+0,0,0,1,0,0,1,0,0,0,Uncertain
+1,0,0,0,0,0,1,0,1,0,Uncertain
+0,1,1,0,0,1,0,1,0,0,Uncertain
+1,0,1,1,0,0,0,1,0,0,Uncertain
+0,1,1,0,1,1,1,0,1,1,Pneumonia
+0,1,1,0,0,0,0,0,0,0,Uncertain
+1,1,1,1,0,1,0,0,1,0,Mostly Pneumonia
+0,1,1,1,0,1,1,0,0,1,Mostly Pneumonia
+1,1,0,0,0,1,1,1,1,0,Mostly Pneumonia
+0,1,1,0,1,0,0,0,0,1,Uncertain
+0,0,1,1,1,0,1,0,0,1,Mostly Pneumonia
+0,0,0,1,1,0,1,1,1,1,Mostly Pneumonia
+0,1,1,1,0,1,0,0,0,0,Uncertain
+0,0,1,0,1,0,0,1,1,0,Uncertain
+0,1,0,0,1,1,0,0,0,0,Uncertain
+1,0,0,1,0,1,1,1,0,0,Mostly Pneumonia
+0,0,1,0,1,0,0,1,0,1,Uncertain
+1,0,1,1,0,1,0,1,0,1,Mostly Pneumonia
+1,0,1,0,1,1,0,0,1,0,Mostly Pneumonia
+1,1,1,0,1,0,1,0,1,1,Pneumonia
+1,1,1,0,0,1,1,0,0,1,Mostly Pneumonia
+1,0,0,0,0,0,0,0,1,0,Uncertain
+0,0,0,0,0,0,0,0,1,0,Uncertain
+0,0,1,0,1,0,0,0,0,1,Uncertain
+1,1,0,1,1,0,1,0,1,0,Mostly Pneumonia
+0,0,1,0,1,1,0,1,0,1,Mostly Pneumonia
+0,1,1,0,0,1,0,1,1,0,Mostly Pneumonia
+0,1,0,0,0,1,1,0,0,0,Uncertain
+1,0,1,0,1,0,0,1,0,1,Mostly Pneumonia
+1,1,0,1,0,1,1,1,0,1,Pneumonia
+1,1,1,1,0,0,1,0,0,0,Mostly Pneumonia
+0,1,1,1,1,0,1,1,0,0,Mostly Pneumonia
+1,1,1,0,0,1,0,0,1,0,Mostly Pneumonia
+0,0,0,0,1,0,0,1,0,0,Uncertain
+0,1,1,0,0,0,1,1,1,1,Mostly Pneumonia
+1,1,0,0,0,0,0,0,1,1,Uncertain
+0,0,1,1,0,0,0,0,0,1,Uncertain
+0,1,0,1,1,0,1,0,0,1,Mostly Pneumonia
+1,1,0,1,0,0,1,0,0,1,Mostly Pneumonia
+0,1,1,1,1,1,1,0,1,0,Pneumonia
+1,0,1,1,0,0,1,0,1,0,Mostly Pneumonia
+1,1,1,1,0,1,0,0,0,0,Mostly Pneumonia
+0,1,0,1,1,0,0,0,0,1,Uncertain
+1,0,0,0,0,0,1,0,0,0,Uncertain
+0,1,0,1,1,0,1,1,1,0,Mostly Pneumonia
+1,1,1,0,0,1,0,0,1,0,Mostly Pneumonia
+1,1,1,1,1,0,1,0,0,0,Mostly Pneumonia
+1,1,1,0,0,1,0,0,0,1,Mostly Pneumonia
+0,1,1,1,0,1,1,1,1,1,Pneumonia
+0,0,0,0,1,0,1,1,1,1,Mostly Pneumonia
+1,0,1,0,0,1,1,0,1,0,Mostly Pneumonia
+1,0,1,1,0,0,0,0,0,1,Uncertain
+1,1,0,1,1,1,0,0,0,0,Mostly Pneumonia
+1,1,0,0,1,0,1,0,1,1,Mostly Pneumonia
+0,0,0,1,0,1,0,1,0,0,Uncertain
+0,0,1,1,1,0,1,0,1,0,Mostly Pneumonia
+0,1,0,1,1,1,0,0,1,0,Mostly Pneumonia
+0,0,1,0,1,1,0,1,0,0,Uncertain
+0,1,0,0,0,0,0,0,0,1,Uncertain
+1,1,0,0,1,0,1,0,1,1,Mostly Pneumonia
+1,1,1,1,1,1,1,1,1,1,Pneumonia
+1,1,0,1,1,1,1,1,0,0,Pneumonia
+0,1,0,0,1,0,1,0,1,1,Mostly Pneumonia
+1,1,1,1,1,0,1,1,1,1,Pneumonia
+1,0,0,0,0,1,0,1,1,0,Uncertain
+1,0,0,1,0,0,0,1,0,0,Uncertain
+1,1,0,1,1,1,1,0,1,1,Pneumonia
+0,1,0,0,1,1,0,1,0,0,Uncertain
+1,1,1,0,0,1,1,1,1,1,Pneumonia
+1,1,0,0,0,1,1,1,0,1,Mostly Pneumonia
+1,0,0,1,1,0,0,0,0,0,Uncertain
+0,0,1,0,1,1,1,0,0,1,Mostly Pneumonia
+1,1,0,0,0,1,0,0,0,0,Uncertain
+1,1,0,1,1,0,1,0,0,1,Mostly Pneumonia
+1,0,0,0,0,0,1,1,0,0,Uncertain
+0,0,1,1,1,0,0,1,0,0,Uncertain
+1,1,0,1,0,0,1,0,0,0,Uncertain
+0,1,1,0,1,1,1,0,1,0,Mostly Pneumonia
+1,1,1,1,0,0,0,1,0,0,Mostly Pneumonia
+0,0,1,0,1,1,1,1,1,1,Pneumonia
+0,1,0,1,0,0,1,0,0,1,Uncertain
+0,1,0,0,0,0,1,0,0,0,Uncertain
+1,1,1,0,1,0,1,1,0,0,Mostly Pneumonia
+0,0,1,1,0,0,1,0,0,1,Uncertain
+1,0,1,0,1,1,0,0,0,0,Uncertain
+1,1,1,0,1,1,0,1,0,1,Pneumonia
+0,0,1,0,1,1,1,1,0,1,Mostly Pneumonia
+1,1,0,0,0,1,0,1,1,1,Mostly Pneumonia
+0,1,0,0,1,0,0,0,0,1,Uncertain
+1,0,1,1,1,1,0,0,0,0,Mostly Pneumonia
+0,1,0,1,0,0,0,1,0,0,Uncertain
+1,0,0,0,1,0,0,0,1,1,Uncertain
+1,1,0,1,1,1,0,1,0,1,Pneumonia
+0,0,0,1,0,0,0,0,1,1,Uncertain
+0,1,1,1,1,1,1,0,1,0,Pneumonia
+0,0,0,1,1,1,1,1,1,0,Mostly Pneumonia
+0,0,1,1,0,0,1,1,1,0,Mostly Pneumonia
+1,1,1,0,1,0,1,1,1,1,Pneumonia
+1,0,0,0,0,1,1,1,1,1,Mostly Pneumonia
+0,1,1,0,1,0,1,1,1,0,Mostly Pneumonia
+1,1,1,0,1,1,0,0,1,0,Mostly Pneumonia
+0,0,1,0,1,0,0,0,1,1,Uncertain
+1,0,0,0,0,0,0,0,1,0,Uncertain
+1,1,0,1,1,1,1,1,1,0,Pneumonia
+1,0,0,1,1,0,0,1,0,0,Uncertain
+0,0,0,1,1,1,1,1,0,1,Mostly Pneumonia
+1,0,0,0,0,1,0,1,1,1,Mostly Pneumonia
+1,0,0,0,1,0,1,1,0,1,Mostly Pneumonia
+1,0,1,0,1,0,0,0,1,1,Mostly Pneumonia
+0,0,0,0,0,1,1,0,1,0,Uncertain
+1,0,1,1,1,1,1,1,0,1,Pneumonia
+1,1,1,0,0,1,0,1,1,1,Pneumonia
+1,0,1,1,1,0,1,0,1,0,Mostly Pneumonia
+0,0,1,0,0,1,0,1,1,1,Mostly Pneumonia
+0,0,1,0,0,0,0,1,1,1,Uncertain
+0,1,1,1,1,1,1,1,1,0,Pneumonia
+0,1,0,0,1,0,0,1,1,1,Mostly Pneumonia
+1,1,0,0,0,0,1,1,1,0,Mostly Pneumonia
+1,0,0,1,0,1,0,0,0,1,Uncertain
+1,0,1,1,0,1,0,1,1,0,Mostly Pneumonia
+0,1,1,0,1,0,1,1,0,1,Mostly Pneumonia
+1,1,1,0,1,0,0,0,1,1,Mostly Pneumonia
+0,1,0,1,1,0,1,0,0,0,Uncertain
+1,0,1,1,0,0,0,0,0,0,Uncertain
+0,1,0,1,1,1,1,0,0,1,Mostly Pneumonia
+1,1,1,1,0,1,0,1,1,1,Pneumonia
+1,0,1,0,0,1,0,0,0,1,Uncertain
+0,1,1,1,1,0,1,1,1,1,Pneumonia
+0,0,1,0,1,0,0,0,0,1,Uncertain
+1,0,1,1,1,1,1,1,0,0,Pneumonia
+0,0,0,1,1,0,0,1,1,0,Uncertain
+1,1,1,0,0,1,0,1,1,0,Mostly Pneumonia
+0,0,0,0,0,1,0,1,0,1,Uncertain
+0,0,0,0,1,1,0,1,1,0,Uncertain
+1,1,0,0,1,1,0,1,0,1,Mostly Pneumonia
+0,0,1,0,1,1,1,0,0,0,Uncertain
+0,1,1,0,1,1,0,0,1,0,Mostly Pneumonia
+1,0,1,1,0,1,0,1,0,1,Mostly Pneumonia
+1,1,0,1,1,1,0,1,0,0,Mostly Pneumonia
+1,0,0,1,1,1,0,1,0,1,Mostly Pneumonia
+0,0,1,0,1,0,0,0,0,0,Uncertain
+1,1,1,0,1,1,1,1,1,0,Pneumonia
+0,1,0,0,1,0,1,1,0,1,Mostly Pneumonia
+1,1,0,0,1,1,1,0,0,0,Mostly Pneumonia
+1,0,0,0,1,1,0,1,1,0,Mostly Pneumonia
+0,0,1,1,0,1,1,1,1,1,Pneumonia
+1,1,0,0,1,1,0,0,1,0,Mostly Pneumonia
+0,0,0,0,0,0,1,1,0,1,Uncertain
+0,0,1,0,0,0,1,0,1,0,Uncertain
+0,0,1,0,0,0,1,0,1,1,Uncertain
+0,1,0,0,0,0,1,0,1,1,Uncertain
+0,1,0,0,1,0,0,0,1,1,Uncertain
+1,0,0,1,0,0,1,1,0,0,Uncertain
+1,1,1,0,0,1,1,1,0,1,Pneumonia
+1,1,0,1,0,0,1,1,0,1,Mostly Pneumonia
+1,1,0,0,1,1,1,1,0,0,Mostly Pneumonia
+1,1,0,1,0,1,0,0,1,0,Mostly Pneumonia
+0,1,0,1,0,1,0,0,1,1,Mostly Pneumonia
+0,0,1,1,1,1,0,1,0,0,Mostly Pneumonia
+1,1,1,1,1,1,0,0,1,1,Pneumonia
+0,0,1,0,0,0,1,0,1,0,Uncertain
+1,1,1,0,1,0,0,0,0,1,Mostly Pneumonia
+1,0,1,0,1,0,0,1,0,1,Mostly Pneumonia
+0,0,1,0,0,1,1,1,0,0,Uncertain
+1,0,0,0,1,1,1,0,0,1,Mostly Pneumonia
+1,0,1,0,1,0,0,0,1,1,Mostly Pneumonia
+0,1,1,0,0,0,0,0,0,0,Uncertain
+0,0,1,1,1,1,1,0,0,0,Mostly Pneumonia
+0,0,0,0,0,1,1,1,0,1,Uncertain
+1,1,1,0,1,0,0,1,1,0,Mostly Pneumonia
+0,1,0,1,0,1,1,0,0,0,Uncertain
+1,1,0,1,1,0,0,0,0,0,Uncertain
+1,0,1,0,0,1,1,0,1,1,Mostly Pneumonia
+1,0,1,1,1,1,0,0,0,0,Mostly Pneumonia
+0,1,1,0,1,0,1,0,0,1,Mostly Pneumonia
+0,0,0,0,1,1,0,0,1,0,Uncertain
+1,0,0,0,1,0,0,0,0,1,Uncertain
+0,1,1,0,1,1,1,0,1,1,Pneumonia
+0,1,1,0,1,1,0,0,1,0,Mostly Pneumonia
+0,1,0,1,1,1,0,0,1,1,Mostly Pneumonia
+1,1,0,0,0,0,1,1,1,0,Mostly Pneumonia
+1,1,0,1,1,0,0,0,0,0,Uncertain
+1,0,1,0,0,1,1,0,0,1,Mostly Pneumonia
+0,0,0,0,1,0,1,1,0,0,Uncertain
+0,0,1,1,1,1,1,0,0,0,Mostly Pneumonia
+0,0,1,0,0,1,1,0,1,0,Uncertain
+1,1,0,1,1,1,0,0,1,0,Mostly Pneumonia
+0,1,1,1,1,0,0,0,0,1,Mostly Pneumonia
+0,0,1,1,0,0,1,0,0,0,Uncertain
+1,1,0,0,0,1,1,0,0,1,Mostly Pneumonia
+1,1,1,1,1,1,0,1,1,1,Pneumonia
+0,0,1,0,1,0,1,0,0,1,Uncertain
+1,1,0,1,1,1,1,1,1,1,Pneumonia
+0,1,0,0,1,1,0,1,0,1,Mostly Pneumonia
+0,0,0,1,1,1,0,0,1,0,Uncertain
+1,0,0,1,1,1,1,1,1,1,Pneumonia
+1,1,1,1,0,1,1,1,1,1,Pneumonia
+1,1,0,1,1,1,1,0,0,1,Pneumonia
+0,0,1,0,1,0,1,0,0,1,Uncertain
+1,0,1,0,0,1,0,0,0,1,Uncertain
+1,0,1,0,0,1,0,0,0,1,Uncertain
+1,1,0,1,1,0,1,1,1,0,Pneumonia
+0,1,0,0,1,1,0,1,1,0,Mostly Pneumonia
+0,0,0,0,1,0,1,1,1,0,Uncertain
+0,0,0,0,1,0,1,0,0,0,Uncertain
+1,0,1,1,0,0,0,0,1,0,Uncertain
+1,0,0,0,0,0,0,1,0,0,Uncertain
+1,0,1,0,1,1,0,1,1,0,Mostly Pneumonia
+1,1,1,0,0,0,1,0,1,0,Mostly Pneumonia
+1,0,1,0,0,1,1,1,0,0,Mostly Pneumonia
+0,1,1,1,1,1,1,1,1,1,Pneumonia
+1,0,1,1,1,0,1,1,0,0,Mostly Pneumonia
+1,1,1,0,1,1,1,0,1,0,Pneumonia
+1,1,1,0,1,1,0,1,1,0,Pneumonia
+0,0,0,1,0,1,1,1,1,0,Mostly Pneumonia
+0,0,0,0,1,0,1,1,0,1,Uncertain
+0,0,1,1,0,0,1,0,0,1,Uncertain
+0,1,1,0,1,1,1,0,0,0,Mostly Pneumonia
+1,0,0,1,1,0,0,0,1,1,Mostly Pneumonia
+0,1,0,1,0,0,1,0,0,1,Uncertain
+1,1,0,1,1,1,0,0,1,0,Mostly Pneumonia
+1,1,0,1,0,1,0,1,0,1,Mostly Pneumonia
+1,1,1,1,1,1,1,0,1,1,Pneumonia
+1,1,1,1,0,1,1,0,1,0,Pneumonia
+0,1,0,0,1,0,0,1,1,1,Mostly Pneumonia
+0,1,0,1,0,0,1,0,1,1,Mostly Pneumonia
+1,0,0,0,1,1,1,1,1,0,Mostly Pneumonia
+1,0,1,1,1,1,0,0,1,1,Pneumonia
+0,1,1,1,1,0,0,1,0,0,Mostly Pneumonia
+0,0,1,1,1,0,0,1,0,0,Uncertain
+1,1,1,0,1,1,1,0,1,1,Pneumonia
+1,0,1,1,0,1,1,0,0,1,Mostly Pneumonia
+1,0,0,0,0,1,0,1,0,0,Uncertain
+0,0,1,1,0,1,1,0,0,0,Uncertain
+0,0,1,1,1,0,1,1,0,0,Mostly Pneumonia
+0,1,0,1,0,0,1,1,0,0,Uncertain
+0,0,1,1,1,0,0,1,0,0,Uncertain
+0,1,1,1,0,1,1,0,0,0,Mostly Pneumonia
+1,0,0,0,1,0,1,0,0,1,Uncertain
+1,1,1,1,1,1,0,0,0,1,Pneumonia
+1,0,1,0,0,0,0,1,1,1,Mostly Pneumonia
+0,1,0,0,1,1,0,1,0,1,Mostly Pneumonia
+0,0,1,0,1,1,0,1,0,1,Mostly Pneumonia
+1,1,1,1,1,0,1,1,1,1,Pneumonia
+0,0,1,1,1,0,1,1,1,0,Mostly Pneumonia
+0,1,1,1,0,0,0,0,1,0,Uncertain
+1,0,1,0,1,0,1,1,1,1,Pneumonia
+1,1,0,0,1,1,1,0,1,0,Mostly Pneumonia
+0,1,1,0,1,1,1,0,1,1,Pneumonia
+0,1,1,0,1,0,1,0,1,0,Mostly Pneumonia
+0,0,0,1,0,0,0,1,1,1,Uncertain
+0,1,0,0,0,1,0,1,0,1,Uncertain
+0,0,1,1,1,0,1,1,0,0,Mostly Pneumonia
+0,1,0,1,0,1,0,0,0,1,Uncertain
+1,1,1,1,1,1,1,0,0,1,Pneumonia
+1,1,1,0,0,1,1,1,1,1,Pneumonia
+0,0,1,1,1,1,0,0,0,0,Uncertain
+0,1,1,1,1,1,1,1,0,0,Pneumonia
+1,0,0,0,1,0,0,0,0,1,Uncertain
+0,1,1,0,0,1,0,1,0,0,Uncertain
+1,0,0,0,0,0,1,0,0,0,Uncertain
+1,1,1,0,1,1,0,0,0,1,Mostly Pneumonia
+0,1,1,1,1,1,1,1,1,1,Pneumonia
+1,1,1,0,1,1,0,0,0,1,Mostly Pneumonia
+1,1,0,0,1,0,1,1,0,0,Mostly Pneumonia
+0,1,0,0,0,0,0,0,1,0,Uncertain
+0,0,0,0,0,1,0,0,1,0,Uncertain
+0,0,1,1,0,0,1,0,0,1,Uncertain
+0,1,1,0,1,0,1,0,1,0,Mostly Pneumonia
+0,1,1,1,1,0,1,0,1,1,Pneumonia
+1,0,1,0,0,0,0,0,1,0,Uncertain
+1,1,1,0,1,1,0,1,1,1,Pneumonia
+0,0,1,0,0,0,1,0,0,0,Uncertain
+1,0,1,0,1,1,0,0,1,1,Mostly Pneumonia
+1,0,1,0,0,0,1,0,0,0,Uncertain
+1,1,0,1,0,1,1,1,0,0,Mostly Pneumonia
+0,1,1,1,0,1,0,0,1,0,Mostly Pneumonia
+0,0,0,0,1,0,0,1,1,1,Uncertain
+0,0,1,0,0,0,0,0,1,0,Uncertain
+0,0,1,1,0,1,0,0,1,1,Mostly Pneumonia
+0,1,0,1,0,0,0,1,0,1,Uncertain
+0,0,0,1,1,1,0,0,0,1,Uncertain
+1,0,0,0,1,1,0,1,0,0,Uncertain
+0,1,1,0,1,0,0,0,1,0,Uncertain
+1,0,1,1,0,0,0,0,1,0,Uncertain
+1,0,1,1,1,0,1,0,1,0,Mostly Pneumonia
+1,1,0,1,1,1,1,0,0,0,Mostly Pneumonia
+0,0,1,0,0,1,1,1,1,0,Mostly Pneumonia
+1,1,0,0,1,0,1,1,1,0,Mostly Pneumonia
+1,0,0,0,1,0,0,1,1,0,Uncertain
+1,0,0,1,0,0,0,1,0,1,Uncertain
+0,0,0,1,1,1,1,0,1,1,Mostly Pneumonia
+1,1,0,1,1,1,0,1,0,1,Pneumonia
+0,0,0,1,0,0,1,0,0,1,Uncertain
+0,0,1,0,0,0,1,0,1,1,Uncertain
+0,0,1,0,1,0,0,1,1,1,Mostly Pneumonia
+1,0,0,0,1,0,0,0,1,1,Uncertain
+0,0,0,1,1,0,1,0,0,0,Uncertain
+1,1,0,0,0,0,1,0,0,0,Uncertain
+1,1,1,0,0,0,1,0,1,0,Mostly Pneumonia
+0,0,1,0,0,0,0,0,1,1,Uncertain
+0,0,0,0,1,1,0,1,0,1,Uncertain
+1,1,1,1,0,1,0,0,1,1,Pneumonia
+1,1,0,0,1,0,0,1,1,0,Mostly Pneumonia
+1,0,0,1,0,1,1,0,1,0,Mostly Pneumonia
+0,1,0,1,1,0,1,0,0,1,Mostly Pneumonia
+1,1,0,0,0,1,1,0,0,1,Mostly Pneumonia
+1,0,0,1,1,0,0,0,1,1,Mostly Pneumonia
+1,1,0,1,0,1,0,0,0,0,Uncertain
+1,1,0,0,0,1,0,1,1,1,Mostly Pneumonia
+0,1,1,1,1,1,0,0,0,0,Mostly Pneumonia
+1,1,1,0,0,1,1,0,0,1,Mostly Pneumonia
+1,1,1,1,1,1,0,1,1,1,Pneumonia
+1,0,0,1,0,1,1,1,1,0,Mostly Pneumonia
+0,1,1,0,1,0,1,0,0,1,Mostly Pneumonia
+0,1,0,0,1,1,0,1,0,1,Mostly Pneumonia
+0,0,0,0,0,1,0,0,0,1,Uncertain
+1,1,0,1,0,1,0,1,0,0,Mostly Pneumonia
+1,1,0,1,1,0,1,0,0,1,Mostly Pneumonia
+1,0,0,0,0,0,1,1,0,0,Uncertain
+0,1,0,0,1,1,1,0,0,0,Uncertain
+0,1,1,1,1,1,1,1,0,0,Pneumonia
+1,0,0,1,1,0,1,1,1,1,Pneumonia
+1,0,0,0,1,1,0,1,1,0,Mostly Pneumonia
+0,0,1,0,0,0,0,0,1,1,Uncertain
+1,0,0,1,0,1,1,1,0,1,Mostly Pneumonia
+0,1,0,1,1,0,0,0,1,0,Uncertain
+1,1,1,1,0,0,1,0,1,1,Pneumonia
+1,0,1,1,1,1,1,1,0,1,Pneumonia
+0,0,0,1,0,0,0,0,0,1,Uncertain
+1,1,1,1,1,0,0,0,1,1,Pneumonia
+0,0,0,0,0,1,0,1,1,1,Uncertain
+1,1,0,0,0,0,1,0,1,0,Uncertain
+1,1,0,1,0,1,0,0,0,0,Uncertain
+0,1,0,0,0,1,0,1,0,0,Uncertain
+0,1,1,0,0,1,0,1,1,1,Mostly Pneumonia
+0,0,1,1,1,1,1,1,0,1,Pneumonia
+0,1,0,1,0,1,1,0,1,1,Mostly Pneumonia
+0,1,0,1,1,1,0,1,0,0,Mostly Pneumonia
+1,1,1,0,1,0,0,0,1,1,Mostly Pneumonia
+1,1,1,1,1,0,0,0,1,1,Pneumonia
+1,1,1,0,0,1,0,1,1,0,Mostly Pneumonia
+0,1,0,0,0,0,0,0,1,1,Uncertain
+0,1,0,1,0,1,1,0,0,1,Mostly Pneumonia
+1,0,0,1,1,0,1,0,1,1,Mostly Pneumonia
